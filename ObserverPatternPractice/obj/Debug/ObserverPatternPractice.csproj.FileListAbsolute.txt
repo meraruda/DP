@@ -1,0 +1,5 @@
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\ObserverPatternPractice\bin\Debug\ObserverPatternPractice.exe.config
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\ObserverPatternPractice\bin\Debug\ObserverPatternPractice.exe
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\ObserverPatternPractice\bin\Debug\ObserverPatternPractice.pdb
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\ObserverPatternPractice\obj\Debug\ObserverPatternPractice.exe
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\ObserverPatternPractice\obj\Debug\ObserverPatternPractice.pdb

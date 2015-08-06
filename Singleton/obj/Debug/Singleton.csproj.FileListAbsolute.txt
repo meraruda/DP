@@ -1,0 +1,6 @@
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\bin\Debug\Singleton.exe.config
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\bin\Debug\Singleton.exe
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.exe
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.pdb

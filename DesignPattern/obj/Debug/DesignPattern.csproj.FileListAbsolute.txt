@@ -1,0 +1,1 @@
+c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
