@@ -4,3 +4,9 @@ c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.exe
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+D:\Repository\dotNet\DP\Singleton\bin\Debug\Singleton.exe.config
+D:\Repository\dotNet\DP\Singleton\bin\Debug\Singleton.exe
+D:\Repository\dotNet\DP\Singleton\bin\Debug\Singleton.pdb
+D:\Repository\dotNet\DP\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+D:\Repository\dotNet\DP\Singleton\obj\Debug\Singleton.exe
+D:\Repository\dotNet\DP\Singleton\obj\Debug\Singleton.pdb

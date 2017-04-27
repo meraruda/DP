@@ -10,19 +10,19 @@ namespace DecoratorPractice
     {
         static void Main(string[] args)
         {
-            Spaghetti NormalSpaghetti = new NormalSpaghetti();
-            NormalSpaghetti = new Ham(NormalSpaghetti);
-            NormalSpaghetti = new Egg(NormalSpaghetti);
+            Spaghetti Spaghetti = new NormalSpaghetti();
+            Spaghetti = new Ham(Spaghetti);
+            Spaghetti = new Egg(Spaghetti);
 
-            Console.WriteLine("價錢:{0}", NormalSpaghetti.GetPrice());
+            Console.WriteLine("{1} 價錢:{0}", Spaghetti.GetPrice(), Spaghetti.Name);           
             Console.ReadKey();
 
-            NormalSpaghetti = new NormalSpaghetti();
-            NormalSpaghetti = new Ham(NormalSpaghetti);
-            NormalSpaghetti = new Egg(NormalSpaghetti);
-            NormalSpaghetti = new Cheese(NormalSpaghetti);
+            Spaghetti = new NormalSpaghetti();
+            Spaghetti = new Ham(Spaghetti);
+            Spaghetti = new Egg(Spaghetti);
+            Spaghetti = new Cheese(Spaghetti);
 
-            Console.WriteLine("價錢:{0}", NormalSpaghetti.GetPrice());
+            Console.WriteLine("{1} 價錢:{0}", Spaghetti.GetPrice(), Spaghetti.Name);
             Console.ReadKey();
 
 
@@ -62,6 +62,7 @@ namespace DecoratorPractice
 
         public Ham(Spaghetti pSpaghetti)
         {
+            this.Name = $"{pSpaghetti.Name} 加火腿";
             this.spaghetti = pSpaghetti;
         }
 
@@ -78,6 +79,7 @@ namespace DecoratorPractice
 
         public Egg(Spaghetti pSpaghetti)
         {
+            this.Name = $"{pSpaghetti.Name} 加蛋";
             this.spaghetti = pSpaghetti;
         }
 
@@ -94,6 +96,7 @@ namespace DecoratorPractice
 
         public Cheese(Spaghetti pSpaghetti)
         {
+            this.Name = $"{pSpaghetti.Name} 加起司";
             this.spaghetti = pSpaghetti;
         }
 

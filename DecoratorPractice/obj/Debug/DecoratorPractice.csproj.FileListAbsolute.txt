@@ -3,3 +3,9 @@ c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\DecoratorP
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\DecoratorPractice\bin\Debug\DecoratorPractice.pdb
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\DecoratorPractice\obj\Debug\DecoratorPractice.exe
 c:\users\chivalry\documents\visual studio 2013\Projects\DesignPattern\DecoratorPractice\obj\Debug\DecoratorPractice.pdb
+D:\Repository\dotNet\DP\DecoratorPractice\bin\Debug\DecoratorPractice.exe.config
+D:\Repository\dotNet\DP\DecoratorPractice\bin\Debug\DecoratorPractice.exe
+D:\Repository\dotNet\DP\DecoratorPractice\bin\Debug\DecoratorPractice.pdb
+D:\Repository\dotNet\DP\DecoratorPractice\obj\Debug\DecoratorPractice.csprojResolveAssemblyReference.cache
+D:\Repository\dotNet\DP\DecoratorPractice\obj\Debug\DecoratorPractice.exe
+D:\Repository\dotNet\DP\DecoratorPractice\obj\Debug\DecoratorPractice.pdb
